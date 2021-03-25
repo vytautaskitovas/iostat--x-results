@@ -7,12 +7,12 @@
 You can run this script remotely on any Ubuntu based Linux machine using following command:
 
 ```bash
-bash <(curl -s -L https://raw.githubusercontent.com/vytautaskitovas/data/master/iostat.sh)
+bash <(curl -s -L https://github.com/vytautaskitovas/iostat--x-results/raw/main/iostat.sh)
 ```
 
 If you want to run this script locally, use these commands:
 ```
-wget https://raw.githubusercontent.com/vytautaskitovas/data/master/iostat.sh && chmod +x iostat.sh
+wget https://github.com/vytautaskitovas/iostat--x-results/raw/main/iostat.sh && chmod +x iostat.sh
 ./ubuntuaddip.sh
 ```
 
