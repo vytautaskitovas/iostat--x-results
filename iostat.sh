@@ -1,6 +1,6 @@
 #!/bin/sh
 
-logfile=t/tmp/.io-monitor/`date +%Y-%m-%d`.csv
+logfile=/tmp/.io-monitor/`date +%Y-%m-%d`.csv
 logdir=$(dirname $logfile)
 
 # Create directory if not exists
